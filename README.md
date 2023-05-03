@@ -2,7 +2,7 @@
 
 Anggota Kelompok:
   1. Patricyus Frederyco Bara (210040218)
-  2. I Putu Adi Sedana Putra (210040068)
+  2. I Putu Adi Sedana Putra (210040098)
   3. Made Bagus Adiyasa (210040029)
 
 Kodingan ini merupakan sebuah kodingan website yang mampu bekerja sebagai CRUD (Create(membuat), Read(membaca), Update(memperbaharui), Delete(menghapus)) data Mahasiswa, Dosen, Karyawan, dan UKM yang ada di ITB STIKOM Bali.
