@@ -26,7 +26,7 @@ Our Teams
     <div class="card-body">
       <h4 class="card-title">I Putu Adi Sedana Putra</h4>
       <h5 class="card-text fw-light">
-        Salah satu mahasiswa di ITB STIKOM Bali dengan NIM : 210040068
+        Salah satu mahasiswa di ITB STIKOM Bali dengan NIM : 210040098
       </h5>
     </div>
   </div>
